@@ -1,0 +1,7 @@
+{
+  "name": "robinhood-replica",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Local-only UI replica for ad footage capture. Not for deployment.",
+  "scripts": { "start": "node server.js" }
+}
